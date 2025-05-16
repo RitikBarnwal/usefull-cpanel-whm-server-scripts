@@ -33,7 +33,7 @@ This bash script is designed for WHM/cPanel server administrators who want to au
 ## ⏲️ Setup Cron Job (Automated Weekly Task)
     crontab -e
     0 2 * * 0 /bin/bash /root/whm_optimization_script.sh >> /var/log/whm_optimize.log 2>&1
-## 🙌 Author\
+## 🙌 Author
 **Ritik Barnwal (RB)**\
 **Linux SysAdmin | cPanel Specialist\
 📧 ritikbarnwal.in\
