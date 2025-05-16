@@ -12,7 +12,7 @@ All scripts are organized in folders for easy access and management. Feel free t
 |--:|-------------|-------------|------|
 | 1 | 📬 Email Summary Script | Generates a summary of all email accounts on a WHM server, including quota and usage. | [View Script](./email_summary) |
 | 2 | ⚙️ WHM Optimization Script | Automates server cleaning, MySQL optimization, log clearing, and performance tasks. | [View Script](./whm_optimization_script) |
-| 3 | 🎯 Change All cPanel Passwords at Once | A Bash script to change all cPanel account passwords on a WHM server to a single specified password using the WHM API. | [View Script]([./whm_optimization_script](https://github.com/RitikBarnwal/change-all-cpanel-password)) |
+| 3 | 🎯 Change All cPanel Passwords at Once | A Bash script to change all cPanel account passwords on a WHM server to a single specified password using the WHM API. | [View Script](https://github.com/RitikBarnwal/change-all-cpanel-password) |
 
 ---
 
