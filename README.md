@@ -10,7 +10,7 @@ All scripts are organized in folders for easy access and management. Feel free t
 
 | # | Script Name | Description | Link |
 |--:|-------------|-------------|------|
-| 1 | 📬 Email Summary Script | Generates a summary of all email accounts on a WHM server, including quota and usage. | [View Script](./email_summary_script) |
+| 1 | 📬 Email Summary Script | Generates a summary of all email accounts on a WHM server, including quota and usage. | [View Script](./email_summary) |
 | 2 | ⚙️ WHM Optimization Script | Automates server cleaning, MySQL optimization, log clearing, and performance tasks. | [View Script](./whm_optimization_script) |
 
 ---
