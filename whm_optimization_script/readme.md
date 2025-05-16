@@ -27,7 +27,7 @@ This bash script is designed for WHM/cPanel server administrators who want to au
 
 1. Download the script:
    ```bash
-   wget https://raw.githubusercontent.com/yourusername/whm-optimization-script/main/whm_optimization_script.sh
+   wget https://raw.githubusercontent.com/RitikBarnwal/usefull-cpanel-whm-server-scripts/whm-optimization-script/main/whm_optimization_script.sh
     chmod +x whm_optimization_script.sh
    ./whm_optimization_script.sh
 ## ⏲️ Setup Cron Job (Automated Weekly Task)
