@@ -19,3 +19,8 @@ All scripts are organized in folders for easy access and management. Feel free t
 
 1. Click on any script folder above.
 2. Follow instruction and use it.
+## 🙌 Author\
+**Ritik Barnwal (RB)**\
+**Linux SysAdmin | cPanel Specialist | Owner @ TextraHost**\
+📧 ritikbarnwal.in\
+🐙 GitHub: @RitikBarnwal\
