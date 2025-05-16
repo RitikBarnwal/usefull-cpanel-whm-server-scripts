@@ -1,28 +1,21 @@
-# usefull-cpanel-whm-server-scripts
----
+# 🧰 Useful Scripts for cPanel/WHM Server
 
-# 1. 📬 Email Summary Script for cPanel/WHM Server
+A collection of practical and ready-to-use Bash scripts designed specifically for **WHM/cPanel server administrators**. These scripts help automate common server tasks, enhance performance, monitor server health, and simplify repetitive jobs.
 
-This script generates a daily report of emails **sent and failed** per cPanel user for the **past 7 days**, using data from the Exim mail log.
-
----
-
-## ✅ Features
-- Tracks outgoing emails and failures (`<=` and `**` in Exim logs)
-- Groups email counts by **date** and **user**
-- Saves report in a clean format in `email_report.txt`
+All scripts are organized in folders for easy access and management. Feel free to explore, use, or contribute!
 
 ---
 
-## 📥 Installation
+## 📁 Available Tools & Scripts
 
-```bash
-curl -o email_summary.sh https://raw.githubusercontent.com/RitikBarnwal/usefull-cpanel-whm-server-scripts/main/email_summary.sh
-chmod +x email_summary.sh
-./email_summary.sh
-````
-## 📥 The output will be saved in email_report.txt
-```bash
-cat email_report.txt
-```
+| # | Script Name | Description | Link |
+|--:|-------------|-------------|------|
+| 1 | 📬 Email Summary Script | Generates a summary of all email accounts on a WHM server, including quota and usage. | [View Script](./email_summary_script) |
+| 2 | ⚙️ WHM Optimization Script | Automates server cleaning, MySQL optimization, log clearing, and performance tasks. | [View Script](./whm_optimization_script) |
 
+---
+
+## 🧑‍💻 How to Use
+
+1. Click on any script folder above.
+2. Follow instruction and use it.
