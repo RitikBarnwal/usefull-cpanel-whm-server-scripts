@@ -34,8 +34,8 @@ This bash script is designed for WHM/cPanel server administrators who want to au
     crontab -e
     0 2 * * 0 /bin/bash /root/whm_optimization_script.sh >> /var/log/whm_optimize.log 2>&1
 ## 🙌 Author
-**Ritik Barnwal (RB)
-Linux SysAdmin | cPanel Specialist | Owner @ TextraHost
+**Ritik Barnwal (RB)**
+**Linux SysAdmin | cPanel Specialist | Owner @ TextraHost**
 📧 ritikbarnwal.in
-🐙 GitHub: @RitikBarnwal**
+🐙 GitHub: @RitikBarnwal
 
